@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geneHapR"]
+	path = geneHapR
+	url = https://github.com/zhangrenl/genehapr
+	shallow = true
+	registered = true
